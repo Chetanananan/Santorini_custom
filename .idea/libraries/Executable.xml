@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Executable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Executable/executable_sprint2_Team073.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/Executable/Assignment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

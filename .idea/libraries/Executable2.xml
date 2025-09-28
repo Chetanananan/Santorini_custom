@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Executable2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Executable/FIT3077Sprint3Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Executable/Game.app.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
